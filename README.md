@@ -2,11 +2,9 @@
 
 - ✅ I have just completed a full stack RoR, React.js bootcamp (graduated 9/11/20)
 - 📚 I have spent 3 years in a Computer Science / Mathematics Major learning Java/SQL
-- :coffee: I am currently expanding my Java knowledge
+- ☕ I am currently expanding my Java knowledge to prepare to learn Spring Framework
 - 🔎 I am searching for a software development position
 - 🌺 2020 goals: Learn Spring Framework, Contribute to some open source projects
-
-<br/>
 
 ### Connect with me:
 [<img align="left" alt="medium-icon" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png">][blog]
