@@ -41,6 +41,9 @@
 
 <br/>
 
+## &#x1f4c8; GitHub Stats
+![Steve's github stats](https://github-readme-stats.vercel.app/api?username=sPesce&show_icons=true&theme=dracula)
+
 [blog]: https://medium.com/@stevepesce879
 [linkedIn]: https://www.linkedin.com/in/steve-pesce/
 [VSCode]: https://code.visualstudio.com/
