@@ -6,11 +6,6 @@
 - 🔎 I am searching for a software development position
 - 🌺 2020 goals: Learn Spring Framework, Contribute to some open source projects
 
-### Connect with me:
-[<img align="left" alt="medium-icon" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png">][blog]
-[<img align="left" alt="linked-in-icon" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png">][linkedIn]
-
-<br/>
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,6 +28,12 @@
 <img align="left" alt="Windows-Server" width="26px" src="https://www.mercurysolutions.co/app/webroot/img/uploads/course/icon-windows-server.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+
+<br/>
+
+### Connect with me:
+[<img align="left" alt="medium-icon" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png">][blog]
+[<img align="left" alt="linked-in-icon" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png">][linkedIn]
 
 <br/>
 
