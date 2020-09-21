@@ -5,6 +5,7 @@
 - ☕ I am currently expanding my Java knowledge to prepare to learn Spring Framework
 - 🔎 I am searching for a software development position
 - 🌺 2020 goals: Learn Spring Framework, Contribute to some open source projects
+- 🎮 Fun Fact: I like to design video game maps, my favorite level being [Neon Arena](https://github.com/sPesce/hdn-neon-arena), created in Hammer Map Editor for Hidden:Source.
 
 
 ### Languages and Tools:
@@ -12,6 +13,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="ES6" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/es6/es6.png" />
 <img align="left" alt="Java" width="26px" src="https://github.com/sPesce/sPesce/blob/master/img/Java.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
