@@ -20,6 +20,8 @@
 <img align="left" alt="RoR" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="SQL-Serv-Reporing-Services" width="26px" src="https://danielcorcoranssql.files.wordpress.com/2016/12/icon-ssrs.png?w=810" />
+<img align="left" alt="PSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="c-sharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 
 <br/>
 
