@@ -1,7 +1,7 @@
 ### Hello, I am Steve Pesce
 
-- ✅ I have just completed a full stack RoR, React.js bootcamp (graduated 9/11/20)
-- 📚 I have spent 3 years in a Computer Science / Mathematics Major learning Java/SQL
+- ✅ I have just completed a full stack RoR, React.js bootcamp (graduated 9/11/20) at Flatiron School D.C.
+- 📚 I have spent 3 years in a Computer Science / Mathematics Major learning Java/SQL @ Community College of Philadelphia
 - 🌱 I am currently learning Spring Framework 
 - 🔎 I am searching for a software development position
 - :fireworks: 2020 goals: Master Spring Framework, Contribute to some open source projects
