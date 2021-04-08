@@ -3,9 +3,7 @@
 - ✅ I have recently completed a full stack RoR, React.js bootcamp (graduated 9/11/20) at Flatiron School D.C.
 - 📚 I have spent 3 years in a Computer Science / Mathematics Major learning Java/SQL @ Community College of Philadelphia
 - 🌱 I am currently learning Spring Framework 
-- 🔎 I am searching for a software development position
-- :fireworks: 2020 goals: Master Spring Framework, Contribute to some open source projects
-- 🎮 Fun Fact: I like to design video game maps, my favorite level being [Neon Arena](https://github.com/sPesce/hdn-neon-arena), created in Hammer Map Editor for Hidden:Source.
+- 🔎 I currently work as an application developer using Angular and Node
 
 
 ### Languages and Tools:
