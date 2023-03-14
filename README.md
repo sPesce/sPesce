@@ -32,12 +32,6 @@
 
 <br/>
 
-### Connect with me:
-[<img align="left" alt="medium-icon" width="22px" src="https://www.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png">][blog]
-[<img align="left" alt="linked-in-icon" width="22px" src="https://www.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png">][linkedIn]
-
-<br/>
-
 ## &#x1f4c8; GitHub Stats
 ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=sPesce&show_icons=true&theme=dracula)
 
